@@ -1,0 +1,14 @@
+# scons file
+.sconsign.dblite
+
+# log file
+*.log
+
+# compile related files
+**/*.o
+**/*.S
+/rvcc
+
+# test file
+/tmp*
+
